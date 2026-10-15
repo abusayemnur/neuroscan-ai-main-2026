@@ -1,7 +1,7 @@
 # NEUROSCAN AI — Brain Tumor MRI Classification & 3D Segmentation Workstation
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel%20Deployment-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://brain-tumor-mri-classifier-gamma.vercel.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atleekumaar/brain-tumor-mri-classifier)
+[![GitHub Repo](https://github.com/abusayemnur/neuroscan-ai-main-2026.git)](https://github.com/atleekumaar/brain-tumor-mri-classifier)
 [![Framework](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![MONAI](https://img.shields.io/badge/MONAI-1.6+-1B5E20?style=for-the-badge)](https://monai.io/)
 [![Backend](https://img.shields.io/badge/FastAPI-0.100+-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
